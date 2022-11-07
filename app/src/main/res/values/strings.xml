@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tirador dado</string>
+    <string name="boton">Button</string>
+    <string name="tirar">Tirar</string>
+</resources>
